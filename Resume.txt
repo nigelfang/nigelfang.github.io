@@ -1,0 +1,73 @@
+Nigel Fang
+
+6269910359
+
+
+PERSONAL INFORMATION
+  Address: , , 
+  Nationality: 
+  Driving License: 
+  Hobbies: Building mechanical keyboards and Tinkering with electronics
+
+SOCIAL PROFILES
+  * Website: https://nigelfang.github.io/
+  * LinkedIn: https://www.linkedin.com/in/nigel-fang-b921541b6/
+  * Github: https://github.com/nigelfang
+
+LANGUAGES
+  ★★★★★ English
+  ★★★☆☆ Chinese (Mandarin)
+  ★☆☆☆☆ Japanese
+
+SKILLS
+  ★★★★☆ Java
+  ★★★★☆ C++
+  ★★★☆☆ Python
+  ★★★☆☆ HTML & CSS
+  ★★★☆☆ Unix
+  ★★☆☆☆ Git
+
+EDUCATION
+  * August 2020 – March 2023
+    Cal Poly Pomona,  BS in Computer Science
+
+    GPA: 3.54
+
+EXTRA-CURRICULAR ACTIVITIES
+  * September 2019 – June 2020
+    Team Member at ACM ICPC, Riverside
+
+    Team member of the Mt. SAC ACM, participating and training for the annual Southern California IC Programming Contest. Trained with a team to compete in data structure programming with schools like Cal Tech, USC, UCLA.
+
+COURSES
+  * August 2019 – December 2019
+    OOP with C++/Java, Mt San Antonio College
+  * August 2020 – December 2020
+    Discrete Mathematics, Cal Poly Pomona
+
+PROJECTS
+  * Homework Messenger Discord Bot, , 
+
+    Python, Selenium, WebDriver, HTML/CSS
+
+  A Discord bot written in Python designed to send reminders about homework
+  Users receive messages every 12 hours about homework from GradeScope
+  Allows custom reminders to be set and added to the alerts
+
+
+  * Mt. SAC Enrollment Script, , 
+
+    Python
+
+  Automates enrollment process for students at Mt. San Antonio College. 
+  Customizable PID, PW, Courses, and enrollment term.
+
+
+  * Gamifying Typing Program, , 
+
+    Java
+
+  Desktop application written in Java that records user input and displays WPM
+  Users see a series of words that must be typed within 60 seconds to achieve their highest WPM
+
+
