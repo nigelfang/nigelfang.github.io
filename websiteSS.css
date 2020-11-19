@@ -41,6 +41,7 @@ a {
     width: 100%;
     outline: 0;
     padding: 12px 16px;
+    text-decoration: none;
 }
 a:link, a:visited { /*Req 14*/
     color:white;
@@ -48,12 +49,23 @@ a:link, a:visited { /*Req 14*/
 a:hover {
     color:black;
 }
+.navButton {
+    background-color: inherit;
+    transition-property: background-color;
+    transition-duration: 0s;
+    transition-delay: 0s;
+    z-index: 0;
+    
+}
+    div.navButton:hover {
+    background-color: black;
+}
 nav { /*Req 6,22*/
     height: 100%;
     margin: 0 auto;
-    width: 150px;
+    width: 130px;
     background-color: rgb(40,40,40);
-    position:fixed;
+    position: fixed;
     z-index: 1;
 }
 div.default {
@@ -66,15 +78,13 @@ div.main {
     padding: 10px;
     text-align: left;
 }
-a.navButton {
-    background-color: inherit;
-}
 i {
     padding: 12px 16px;
     text-align: center;
     vertical-align: middle;
     color: inherit;
     background-color: inherit;
+    z-index: 1;
 }
 div.circleList { /*Req 7 in subpage.html*/
     list-style-type: upper-latin;
@@ -90,5 +100,10 @@ p.hidden { /*Req 16,18,21 in subpage.html*/
 div li { /*Req 15*/
     background-color: black;
 }
-@media only screen and (max-width: 600px) {div.main {margin-left: 0}}
+@media only screen and (max-width: 600px) 
+{
+    div.main {
+        margin-left: 0
+    }
+}
 
